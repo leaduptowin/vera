@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# build output
+dist
+*.tsbuildinfo
+.vite
+coverage
+
+# local secrets
+.env
+.env.*
+!.env.example
+
+# local machine / tooling
+.DS_Store
+*.local
+.runtime-node
+.pw-runner

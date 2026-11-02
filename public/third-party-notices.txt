@@ -1,0 +1,18 @@
+MINUTE — Third-party notices
+============================
+
+This site bundles the Inter and JetBrains Mono fonts under the SIL Open Font
+License 1.1. Full texts are available at:
+
+  licenses/inter-OFL.txt
+  licenses/jetbrains-mono-OFL.txt
+
+Lucide icons are ISC licensed. Full text:
+
+  licenses/lucide-ISC.txt
+
+Other runtime dependencies (React, Radix UI, clsx, tailwind-merge,
+class-variance-authority) are MIT or Apache-2.0 licensed.
+
+See the repository's THIRD_PARTY_NOTICES.md for links and details.
+The application source is MIT licensed: see LICENSE.txt.
